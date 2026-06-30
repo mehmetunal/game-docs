@@ -8,8 +8,10 @@
 
 | Doküman | Dosya |
 |---------|-------|
-| Gizlilik Politikası (TR) | [legal/privacy-policy-tr.md](legal/privacy-policy-tr.md) |
-| Gizlilik Politikası (EN) | [legal/privacy-policy-en.md](legal/privacy-policy-en.md) |
+| Gizlilik Politikası (TR) — **App Store URL** | [privacy-policy.html](privacy-policy.html) |
+| Gizlilik Politikası (EN) | [privacy-policy-en.html](privacy-policy-en.html) |
+| Destek | [support.html](support.html) |
+| Gizlilik (markdown kaynak) | [legal/privacy-policy-tr.md](legal/privacy-policy-tr.md) |
 | Kullanım Koşulları (TR) | [legal/terms-of-service-tr.md](legal/terms-of-service-tr.md) |
 | Kullanım Koşulları (EN) | [legal/terms-of-service-en.md](legal/terms-of-service-en.md) |
 | Veri güvenliği (Play Console) | [legal/data-safety.md](legal/data-safety.md) |

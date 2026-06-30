@@ -1,25 +1,25 @@
 # game-docs
 
-ArrowGO ve diğer mobil oyunlar için mağaza (App Store / Google Play) dokümanları, gizlilik politikaları ve yasal metinler.
+Mobil oyunlar için mağaza (App Store / Google Play) dokümanları, gizlilik politikaları ve yasal metinler.
+
+GitHub Pages: https://mehmetunal.github.io/game-docs/
 
 ## Oyunlar
 
-| Oyun | Klasör | Gizlilik (TR) |
-|------|--------|----------------|
-| ArrowGO - Ok Bulmaca | [arrowgo-ok-bulmaca/](arrowgo-ok-bulmaca/) | [privacy-policy-tr.md](arrowgo-ok-bulmaca/legal/privacy-policy-tr.md) |
+| Oyun | Gizlilik (App Store URL) | Klasör |
+|------|--------------------------|--------|
+| ArrowGO - Ok Bulmaca | [privacy-policy.html](arrowgo-ok-bulmaca/privacy-policy.html) | [arrowgo-ok-bulmaca/](arrowgo-ok-bulmaca/) |
+| Echoes of the Oasis | [privacy-policy.html](echoes-of-the-oasis/privacy-policy.html) | [echoes-of-the-oasis/](echoes-of-the-oasis/) |
+| Let the Number Fall | [privacy-policy.html](let-the-number-fall/privacy-policy.html) | [let-the-number-fall/](let-the-number-fall/) |
 
-## GitHub Pages URL'leri (önerilen)
-
-Repo Settings → Pages → `main` branch, `/` root etkinleştirildiğinde:
+## ArrowGO — hızlı bağlantılar
 
 | Doküman | URL |
 |---------|-----|
-| Gizlilik (TR) | `https://mehmetunal.github.io/game-docs/arrowgo-ok-bulmaca/legal/privacy-policy-tr.html` |
-| Gizlilik (EN) | `https://mehmetunal.github.io/game-docs/arrowgo-ok-bulmaca/legal/privacy-policy-en.html` |
-| Kullanım Koşulları (TR) | `https://mehmetunal.github.io/game-docs/arrowgo-ok-bulmaca/legal/terms-of-service-tr.html` |
+| Gizlilik (TR) | https://mehmetunal.github.io/game-docs/arrowgo-ok-bulmaca/privacy-policy.html |
+| Gizlilik (EN) | https://mehmetunal.github.io/game-docs/arrowgo-ok-bulmaca/privacy-policy-en.html |
+| Destek | https://mehmetunal.github.io/game-docs/arrowgo-ok-bulmaca/support.html |
+| Mağaza metinleri | `arrowgo-ok-bulmaca/store/` |
+| Yayın kontrol listesi | [checklist.md](arrowgo-ok-bulmaca/checklist.md) |
 
-> App Store Connect ve Play Console'da **Gizlilik Politikası URL** alanına yukarıdaki TR veya EN linkini girin.
-
-## Lisans
-
-Bu depodaki yasal metinler ilgili uygulama sahibine aittir.
+> App Store Connect ve Play Console'da **Gizlilik Politikası URL** alanına TR linkini girin.

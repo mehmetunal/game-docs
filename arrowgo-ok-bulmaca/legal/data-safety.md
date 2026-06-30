@@ -38,7 +38,7 @@ Kullanıcı uygulamayı kaldırarak veya uygulama verilerini temizleyerek yerel 
 ## Gizlilik politikası URL
 
 ```
-https://mehmetunal.github.io/game-docs/arrowgo-ok-bulmaca/legal/privacy-policy-tr.html
+https://mehmetunal.github.io/game-docs/arrowgo-ok-bulmaca/privacy-policy.html
 ```
 
-(EN sürümü uluslararası kullanıcılar için: `privacy-policy-en.html`)
+(EN: `privacy-policy-en.html`)

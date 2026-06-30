@@ -37,5 +37,5 @@
 
 | Dil | URL |
 |-----|-----|
-| TR | https://mehmetunal.github.io/game-docs/arrowgo-ok-bulmaca/legal/privacy-policy-tr.html |
-| EN | https://mehmetunal.github.io/game-docs/arrowgo-ok-bulmaca/legal/privacy-policy-en.html |
+| TR | https://mehmetunal.github.io/game-docs/arrowgo-ok-bulmaca/privacy-policy.html |
+| EN | https://mehmetunal.github.io/game-docs/arrowgo-ok-bulmaca/privacy-policy-en.html |
