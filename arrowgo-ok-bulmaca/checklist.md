@@ -28,10 +28,12 @@
 
 ## Teknik (oyun reposu)
 
-- [ ] AdMob gerçek App ID: `lib/ads/ad_config.dart`
-- [ ] Test reklam ID'leri prod ile değiştirildi
+- [ ] AdMob prod ID'ler: `lib/ads/ad_config.dart` (`_prod*` sabitleri)
+- [ ] Release build: `--dart-define=USE_TEST_ADS=false`
 - [ ] `flutter build ios` / `flutter build appbundle` başarılı
 - [ ] Launcher ikonu ve splash
+- [ ] Ekran görüntüleri: `./scripts/capture_ios_screenshots.sh`
+- [ ] App Store gizlilik: `store/ios/app_privacy_details.md`
 
 ## Önerilen gizlilik URL'leri
 
